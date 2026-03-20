@@ -51,22 +51,24 @@ truffle migrate
 ```
 6️⃣ Connect MetaMask
 
-Add a new network:
-Network Name: Localhost 7545
-RPC URL: http://127.0.0.1:7545
-Import a Ganache account using private key
+- Add a new network:
+- Network Name: Localhost 7545
+- RPC URL: http://127.0.0.1:7545
+- Import a Ganache account using private key
 
 7️⃣ Run the Application
 
 Open index.html in browser
 
 ## 🧪 Testing (Truffle Console)
+
+```bash
 truffle console
+```
 
 Example:
-
-let v = await Voting.deployed()
-v.candidates(1)
+- let v = await Voting.deployed()
+- v.candidates(1)
 
 ---
 
