@@ -70,12 +70,18 @@ Example:
 
 let v = await Voting.deployed()
 v.candidates(1)
+
+---
+
 📂 Project Structure
 ├── contracts/        # Smart contracts (Solidity)
 ├── migrations/       # Deployment scripts
 ├── src/              # Frontend files
 ├── test/             # Test cases
 ├── truffle-config.js # Configuration
+
+---
+
 🔒 Security Features
 
 Immutable vote records
@@ -85,6 +91,9 @@ No single point of failure
 Protection against vote tampering
 
 Transparent audit trail
+
+---
+
 
 🎯 Future Improvements
 
@@ -96,9 +105,13 @@ Multi-election support
 
 Cloud deployment
 
+---
+
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss.
+
+---
 
 📜 License
 
