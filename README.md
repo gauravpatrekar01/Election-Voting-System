@@ -78,8 +78,8 @@ Example:
 
 - Immutable vote records
 - No single point of failure
--  Protection against vote tampering
--Transparent audit trail
+- Protection against vote tampering
+- ransparent audit trail
 
 ---
 
