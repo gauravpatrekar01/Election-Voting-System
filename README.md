@@ -74,15 +74,6 @@ Example:
 
 ---
 
-## 📂 Project Structure
-├── contracts/        # Smart contracts (Solidity)
-├── migrations/       # Deployment scripts
-├── src/              # Frontend files
-├── test/             # Test cases
-├── truffle-config.js # Configuration
-
----
-
 ## 🔒 Security Features
 
 - Immutable vote records
