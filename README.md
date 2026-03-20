@@ -92,12 +92,12 @@ v.candidates(1)
 ---
 
 
-##🎯 Future Improvements
+## 🎯 Future Improvements
 
--Mobile app integration
--Biometric authentication
--Multi-election support
--Cloud deployment
+- Mobile app integration
+- Biometric authentication
+- Multi-election support
+- Cloud deployment
 
 ---
 
