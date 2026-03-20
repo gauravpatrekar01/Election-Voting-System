@@ -63,7 +63,7 @@ Import a Ganache account using private key
 
 Open index.html in browser
 
-🧪 Testing (Truffle Console)
+##🧪 Testing (Truffle Console)
 truffle console
 
 Example:
@@ -73,7 +73,7 @@ v.candidates(1)
 
 ---
 
-📂 Project Structure
+##📂 Project Structure
 ├── contracts/        # Smart contracts (Solidity)
 ├── migrations/       # Deployment scripts
 ├── src/              # Frontend files
@@ -82,32 +82,26 @@ v.candidates(1)
 
 ---
 
-🔒 Security Features
+##🔒 Security Features
 
-Immutable vote records
-
-No single point of failure
-
-Protection against vote tampering
-
-Transparent audit trail
+-Immutable vote records
+-No single point of failure
+-Protection against vote tampering
+-Transparent audit trail
 
 ---
 
 
-🎯 Future Improvements
+##🎯 Future Improvements
 
-Mobile app integration
-
-Biometric authentication
-
-Multi-election support
-
-Cloud deployment
+-Mobile app integration
+-Biometric authentication
+-Multi-election support
+-Cloud deployment
 
 ---
 
-🤝 Contributing
+##🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss.
 
