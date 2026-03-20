@@ -52,11 +52,8 @@ truffle migrate
 6️⃣ Connect MetaMask
 
 Add a new network:
-
 Network Name: Localhost 7545
-
 RPC URL: http://127.0.0.1:7545
-
 Import a Ganache account using private key
 
 7️⃣ Run the Application
