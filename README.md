@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project is a **Blockchain-based Voting System** designed to provide a secure, transparent, and tamper-proof election process. By leveraging blockchain technology, it ensures vote integrity, voter privacy, and real-time verification, overcoming limitations of traditional and existing digital voting systems.
 
+<img width="1911" height="909" alt="image" src="https://github.com/user-attachments/assets/cbbe6c35-86a3-4c8b-8bdb-9aacaaea32c0" />
+
 ---
 
 ## 🚀 Features
